@@ -2,7 +2,7 @@
   "name": "mobiquity-item-packer",
   "version": "1.0.0",
   "description": "",
-  "main": "lib/packer.js",
+  "main": "src/com/mobiquity/packer/packer.ts",
   "scripts": {
     "build": "tsc -p .",
     "test": "jest"
